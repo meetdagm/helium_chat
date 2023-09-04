@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57933833507",
+    "project_id": "helium-chat-6d522",
+    "storage_bucket": "helium-chat-6d522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57933833507:android:1807966d564988eed51896",
+        "android_client_info": {
+          "package_name": "com.example.helium_chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57933833507-f828971d98gr97sjqvv9ifhvbnic0nv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzR3hcZR5TplQN_i9psi6_eYwI16rCXkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57933833507-f828971d98gr97sjqvv9ifhvbnic0nv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
